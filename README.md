@@ -9,10 +9,10 @@ Once you are in the project directory, open a terminal and run sbt to open a sbt
 run main
 ```
 
-#Output test
+# Output test
 
-###Iris data visualisation before using the algorithm
+### Iris data visualisation before using the algorithm
 ![before](./before.png)
 
-###Iris data visualisation after using the algorithm
+### Iris data visualisation after using the algorithm
 ![after](./after.png)
